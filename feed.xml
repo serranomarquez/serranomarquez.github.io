@@ -4,10 +4,10 @@
     <title>Serrano Marquez</title>
     <description>The life of Daniel &amp; Julieth
 </description>
-    <link>http://serranomarquez.com</link>
-    <atom:link href="http://serranomarquez.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 04 Apr 2020 16:31:08 -0400</pubDate>
-    <lastBuildDate>Sat, 04 Apr 2020 16:31:08 -0400</lastBuildDate>
+    <link>http://localhost:4000</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 09 Apr 2020 01:53:56 -0400</pubDate>
+    <lastBuildDate>Thu, 09 Apr 2020 01:53:56 -0400</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -42,8 +42,8 @@
 &lt;p&gt;Craft beer shaman williamsburg sartorial iPhone deep v, paleo pok pok cred brooklyn glossier helvetica leggings. Franzen skateboard vice, jianbing disrupt tacos sustainable squid ennui ethical salvia beard master cleanse. +1 adaptogen tofu pabst, before they sold out crucifix heirloom. Put a bird on it biodiesel migas, godard meh art party tacos everyday carry brunch kickstarter. Salvia tousled hashtag, occupy post-ironic shoreditch prism flexitarian enamel pin sustainable gentrify viral. Four dollar toast umami put a bird on it mlkshk typewriter shoreditch. Affogato XOXO readymade lyft. Cliche austin shoreditch unicorn intelligentsia pabst XOXO YOLO listicle selfies iceland bushwick. Street art godard pinterest cliche. Fixie migas pug shaman ugh craft beer chillwave keffiyeh selvage plaid.&lt;/p&gt;
 </description>
         <pubDate>Tue, 10 Oct 2017 00:00:00 -0400</pubDate>
-        <link>http://serranomarquez.com/2017/10/10/disrupt-raw-denim/</link>
-        <guid isPermaLink="true">http://serranomarquez.com/2017/10/10/disrupt-raw-denim/</guid>
+        <link>http://localhost:4000/2017/10/10/disrupt-raw-denim/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/10/10/disrupt-raw-denim/</guid>
         
         <category>Squid</category>
         
@@ -84,8 +84,8 @@
 &lt;p&gt;Craft beer shaman williamsburg sartorial iPhone deep v, paleo pok pok cred brooklyn glossier helvetica leggings. Franzen skateboard vice, jianbing disrupt tacos sustainable squid ennui ethical salvia beard master cleanse. +1 adaptogen tofu pabst, before they sold out crucifix heirloom. Put a bird on it biodiesel migas, godard meh art party tacos everyday carry brunch kickstarter. Salvia tousled hashtag, occupy post-ironic shoreditch prism flexitarian enamel pin sustainable gentrify viral. Four dollar toast umami put a bird on it mlkshk typewriter shoreditch. Affogato XOXO readymade lyft. Cliche austin shoreditch unicorn intelligentsia pabst XOXO YOLO listicle selfies iceland bushwick. Street art godard pinterest cliche. Fixie migas pug shaman ugh craft beer chillwave keffiyeh selvage plaid.&lt;/p&gt;
 </description>
         <pubDate>Mon, 09 Oct 2017 00:00:00 -0400</pubDate>
-        <link>http://serranomarquez.com/2017/10/09/lumbersexual/</link>
-        <guid isPermaLink="true">http://serranomarquez.com/2017/10/09/lumbersexual/</guid>
+        <link>http://localhost:4000/2017/10/09/lumbersexual/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/10/09/lumbersexual/</guid>
         
         <category>Mixtape</category>
         
@@ -127,8 +127,8 @@
 &lt;p&gt;Narwhal kombucha before they sold out tacos affogato, tousled pok pok woke literally occupy. Copper mug tumblr echo park edison bulb try-hard iPhone swag hell of everyday carry seitan prism farm-to-table gluten-free migas banjo. Meh humblebrag paleo messenger bag brunch swag heirloom drinking vinegar wayfarers disrupt jianbing VHS hella. Stumptown four loko shoreditch bicycle rights, pitchfork messenger bag poutine sustainable pok pok slow-carb. Lo-fi wayfarers cold-pressed, drinking vinegar quinoa succulents hashtag tote bag kitsch coloring book tacos sustainable. Activated charcoal hell of tote bag af, helvetica fanny pack cray fashion axe synth blog edison bulb. Subway tile iceland banh mi pickled air plant. Literally YOLO viral, photo booth hell of semiotics polaroid shabby chic cornhole iPhone hashtag kombucha leggings. Schlitz yuccie affogato hashtag succulents flexitarian, you probably haven’t heard of them chartreuse adaptogen. Meggings sustainable ennui, kinfolk tbh vinyl normcore kale chips edison bulb cray woke air plant swag. Neutra cardigan palo santo whatever.&lt;/p&gt;
 </description>
         <pubDate>Sun, 08 Oct 2017 00:00:00 -0400</pubDate>
-        <link>http://serranomarquez.com/2017/10/08/brunch-swag/</link>
-        <guid isPermaLink="true">http://serranomarquez.com/2017/10/08/brunch-swag/</guid>
+        <link>http://localhost:4000/2017/10/08/brunch-swag/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/10/08/brunch-swag/</guid>
         
         <category>Squid</category>
         
