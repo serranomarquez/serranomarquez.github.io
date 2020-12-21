@@ -1,1 +1,1 @@
-Sitemap: http://serranomarquez.com/sitemap.xml
+Sitemap: serranomarquez.com/sitemap.xml
